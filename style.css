@@ -1,2 +1,7 @@
 body {background-color: blue; text-align :justify;font-size:18px;}
-h1 { text-align:center;background-color:black
+h1 { text-align:center;background-color:black; color: aqua;}
+h3 {text-align:justify; color: black; }
+b {color: blueviolet;font-size: 18px;}
+i {color:rgb(236, 33, 33); font-size: 18px;}
+header,footer{background-color: blue;color: black;text-align: center;font-size: 20px}
+main{background-color: brown;}
